@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bohdan Zelenskyi 👋</h1>
-<h3 align="center">Machine Learning Engineer · Computer Vision · Python Backend</h3>
+<h3 align="center">Machine Learning Engineer · Backend Developer · C#/.NET</h3>
 
 <p align="center">
   I build production-ready AI, computer vision pipelines, and real-time backend systems.<br/>
@@ -21,6 +21,8 @@ I'm a Machine Learning and Backend Engineer with 4+ years of hands-on experience
 - ⚡ Developed real-time APIs and messaging services with FastAPI, Flask, WebSockets, and Redis
 - 📊 Delivered pipelines processing thousands of images per day and reduced manual review by 60–80%
 - 🐳 Deploy production services with Docker, Linux, CI/CD, testing, and monitoring in mind
+- 🏗️ Build BIM automation tools with C#, .NET Framework, and the Autodesk Revit API
+- 💻 Work with C++ at an intermediate level alongside Python, C#, and TypeScript
 - 🌍 English B2 · German B1 · Based in Baden-Württemberg
 
 ## Core stack
@@ -37,6 +39,10 @@ I'm a Machine Learning and Backend Engineer with 4+ years of hands-on experience
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C Sharp"/>
+  <img src="https://img.shields.io/badge/.NET_Framework_4.8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Framework 4.8"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Intermediate-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ Intermediate"/>
+  <img src="https://img.shields.io/badge/Autodesk_Revit_API-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Revit API"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -46,6 +52,7 @@ I'm a Machine Learning and Backend Engineer with 4+ years of hands-on experience
 |---|---|
 | [VisionInsight](https://github.com/DrBarga/visioninsight) | Real-time multimodal video and audio analysis, AI inference, and Python backend architecture |
 | [Photo Enhancer](https://github.com/DrBarga/Photo-enhancer) | Computer vision and image enhancement workflows in Python |
+| [RevitComments](https://github.com/DrBarga/RevitComments) | C#/.NET Framework add-in using Autodesk Revit API for BIM metadata automation |
 | [Portfolio](https://github.com/DrBarga/Portfolio) | Selected engineering projects and product work built with TypeScript |
 | [KeyCRM Integrations](https://github.com/DrBarga/Integrations-with-KeyCRM) | Practical business integrations, automation, and API-driven development |
 
@@ -55,6 +62,7 @@ I'm a Machine Learning and Backend Engineer with 4+ years of hands-on experience
 - Low-latency Python services and event-driven architecture
 - Reliable model deployment, observability, and MLOps
 - AI products that solve measurable business problems
+- C#/.NET services and Autodesk Revit automation
 
 ## GitHub overview
 
@@ -66,6 +74,6 @@ I'm a Machine Learning and Backend Engineer with 4+ years of hands-on experience
 ---
 
 <p align="center">
-  <strong>Open to Machine Learning, Computer Vision, AI Engineering, and Python Backend opportunities.</strong><br/>
+  <strong>Open to Machine Learning, Computer Vision, Backend, and C#/.NET opportunities.</strong><br/>
   Stuttgart region · Germany · Remote worldwide
 </p>
