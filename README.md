@@ -24,6 +24,12 @@ A local Windows diagnostics tool built with C#/WinUI 3 and a native C++20 agent.
 
 Version 1.0.0 is available on the repository's release page. The README explains platform requirements, data handling and access limitations. An observed exit code provides context; it does not establish the cause of a failure.
 
+### [Workflow CRM](https://github.com/DrBarga/workflow-crm)
+
+A CRM and workflow platform for managing business locations, contacts, documents and task execution. I work on the Java/Spring Boot backend, including access control, authentication, lifecycle rules, imports and exports, and template-driven task workflows.
+
+The backend uses Spring Modulith, PostgreSQL, Redis, RabbitMQ and MinIO, with a Next.js interface under development. The repository contains the current development snapshot, API documentation and tests.
+
 ### [KeyCRM integration](https://github.com/DrBarga/Integrations-with-KeyCRM)
 
 A TypeScript service for matching products by SKU, synchronizing stock and transferring orders between a storefront and KeyCRM. The implementation keeps product matching explicit and protects order transfer against duplicates.
